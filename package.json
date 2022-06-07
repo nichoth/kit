@@ -90,7 +90,7 @@
     "documentation": "^13.2.5",
     "esbuild": "^0.12.9",
     "i18n-json-to-elm": "^1.2.2",
-    "react": "^17.0.2",
+    "react": "^18.1.0",
     "rimraf": "^3.0.2"
   },
   "peerDependencies": {
